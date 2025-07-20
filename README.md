@@ -43,10 +43,7 @@ Fonte:https://www.kaggle.com/datasets/samxsam/human-cognitive-performance-analys
 
 -----
 
-## 🧾 `executive_summary.md`
-
-```markdown
-# Resumo Executivo
+## Resumo Executivo
 
 Esta análise teve como objetivo identificar os principais fatores que influenciam o desempenho cognitivo humano e transformá-los em estratégias práticas.
 
