@@ -39,28 +39,9 @@ A demanda:
 ## Dados Utilizados
 
 Fonte:https://www.kaggle.com/datasets/samxsam/human-cognitive-performance-analysis
+
+
 -----
-
-## 🧱 Estrutura do Projeto (estilo Cookiecutter)
-
-```text
-analise-cognitiva/
-├── data/               # Dados brutos e tratados
-├── notebooks/          # Jupyter Notebook principal
-├── reports/
-│   └── figures/        # Gráficos gerados
-├── src/                # Funções Python reutilizáveis (opcional)
-├── README.md           # Este arquivo
-├── executive_summary.md
-├── relatorio_final_cognitivo.pdf
-├── requirements.txt
-└── LICENSE             # Licença MIT
-
-
-
-
-
----
 
 ## 🧾 `executive_summary.md`
 
@@ -84,6 +65,31 @@ Esta análise teve como objetivo identificar os principais fatores que influenci
 1. **Implementar programas de agilidade mental** voltados especialmente a quem apresenta tempo de reação baixo.
 2. **Atuar simultaneamente em sono e estresse**, priorizando intervenções integradas.
 3. **Criar plano de ação específico para o grupo de alto risco**, com metas e indicadores mensais de melhoria.
+
+-----
+
+## 🧱 Estrutura do Projeto (estilo Cookiecutter)
+
+```text
+analise-cognitiva/
+├── data/               # Dados brutos e tratados
+├── notebooks/          # Jupyter Notebook principal
+├── reports/
+│   └── figures/        # Gráficos gerados
+├── src/                # Funções Python reutilizáveis (opcional)
+├── README.md           # Este arquivo
+├── executive_summary.md
+├── relatorio_final_cognitivo.pdf
+├── requirements.txt
+└── LICENSE             # Licença MIT
+
+
+
+
+
+---
+
+
 
 ---
 
